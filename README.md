@@ -86,7 +86,7 @@ cloud-infra-provisioner/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cloud-infra-provisioner.git
+git clone https://github.com/bmc125/cloud-infra-provisioner.git
 cd cloud-infra-provisioner
 ```
 
